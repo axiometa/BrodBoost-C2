@@ -28,5 +28,7 @@ Step-down conversion from 5 V to 3.3 V is handled by the AP2114H-3.3TRG1 LDO reg
 # PCB Design
 BrodBoost-C2 is a two-layer PCB measuring 12 mm by 54.0 mm, designed to maximize trace width and optimize the switching regulator's ground return path. This layout comfortably supports the nominal device current of approximately 1 A.
 
+**Top**
 <img width="3614" height="847" alt="T_BBS0004" src="https://github.com/user-attachments/assets/515c4f96-dcaa-44ca-9c97-efa0c467b682" />
+**Bottom**
 <img width="3614" height="847" alt="B_BBS0004" src="https://github.com/user-attachments/assets/f3780d17-396f-4bf6-b2b9-97f77a8f052f" />
