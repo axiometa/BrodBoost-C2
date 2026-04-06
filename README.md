@@ -1,6 +1,6 @@
 # BrodBoost-C2
 
-BrødBoost-C2 is a project of Axiometa, more information is available at [axiometa.io](https://www.axiometa.io/products/axiometa-brodboost-c2-breadboard-power-supply)
+BrødBoost-C2 is a project of Axiometa, it is available for sale at [axiometa.io](https://www.axiometa.io/products/axiometa-brodboost-c2-breadboard-power-supply)
 
 BrødBoost-C2 is a USB-C breadboard power supply that delivers clean 5V and 3.3V power directly to your breadboard. It features short-circuit fuse protection, USB ESD protection, an ideal diode for reverse polarity safety, a load switch with soft startup, and ferrite bead filtering for low-noise operation. An on/off switch and power LED keep you in control, while USB data passthrough keeps your lines accessible.
 
